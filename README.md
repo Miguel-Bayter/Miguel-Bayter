@@ -16,7 +16,7 @@
 
   <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
     <img
-      width="256"
+      width="456"
       align="right"
       src="https://api.daily.dev/devcards/fd228704937d4496bb54b767eec038fc.png?r=e0v"
     />
