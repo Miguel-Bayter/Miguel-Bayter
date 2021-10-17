@@ -35,7 +35,7 @@
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel-Bayter&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel-Bayter&show_icons=true&theme=oscuro)
 
 
 
