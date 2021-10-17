@@ -42,10 +42,18 @@ Young entrepreneur who does not see web development as a hobby but as a way of l
 <br/>
  
 <div style="text-align: right">
-<img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/css.svg' width='30'/> 
-<img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/git.svg' height='30'/>  
-<img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/e79e879970031624336e1de003103839f610f637/images/bootstrap.svg' height='30'/> 
- </div> 
+  <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/html.svg' width='30'/> 
+  <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/css.svg' width='30'/> 
+  <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/js.svg' width='30'/> 
+  <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/git.svg' height='30'/>  
+  <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/nodejs.svg' width='30'/> 
+  <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/e79e879970031624336e1de003103839f610f637/images/bootstrap.svg' height='30'/> 
+  <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/python.svg' width='30'/> 
+  <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/php.svg' width='30'/> 
+  <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/sql.svg' width='30'/> 
+  <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/react.svg' width='30'/> 
+  <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/java.svg' width='30'/>  
+</div> 
 
 
 
