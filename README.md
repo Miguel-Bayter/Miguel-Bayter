@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://app.daily.dev/MiguelBayterDev"><img src="https://api.daily.dev/devcards/fd228704937d4496bb54b767eec038fc.png?r=e0v" width="400" alt="Miguel Eduardo Bayter Quintana's Dev Card"/></a>
+
 -->
+
+<a href="https://app.daily.dev/MiguelBayterDev"><img src="https://api.daily.dev/devcards/fd228704937d4496bb54b767eec038fc.png?r=e0v" width="400" alt="Miguel Eduardo Bayter Quintana's Dev Card"/></a>
