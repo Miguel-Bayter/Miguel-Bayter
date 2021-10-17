@@ -11,13 +11,13 @@
 # Hi there 👋
 
 <div align="left">
-  <a href="https://twitter.com/miguel_bayter">
+  <a href="https://twitter.com/C">
     <img
       src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
       alt="Twitter"
     />
   </a>
-  <a href="https://github.com/Miguel-Bayter/">
+  <a href="https://www.linkedin.com/in/miguel-eduardo-bayter-quintana-98653b128/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
@@ -35,4 +35,5 @@
 
 <br />
 
+![Metrics](https://raw.githubusercontent.com/Miguel-Bayter/Miguel-Bayter/github-metrics/github-metrics.svg)
 
