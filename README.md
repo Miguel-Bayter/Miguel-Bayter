@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# <h1> Hello world, I'm Miguel Bayter <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
 <div align="left">
   <a href="https://twitter.com/miguel_bayter">
@@ -25,7 +25,6 @@
 
 <br />
 
-<h3> Hello world, I'm Miguel Bayter <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h3>
 Young entrepreneur who does not see web development as a hobby but as a way of life and dreams one day that his efforts will be recognized allowing him to live from that dream called web development, standing out as a promoter of the fourth industrial revolution
 
 [![Linkedin Badge](https://img.shields.io/badge/-miguel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/miguel-eduardo-bayter-quintana)](https://www.linkedin.com/in/miguel-eduardo-bayter-quintana) [![Gmail Badge](https://img.shields.io/badge/-mbayterq.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mbayterq.dev@gmail.com)](mailto:mbayterq.dev@gmail.com.com)
