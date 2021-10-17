@@ -46,7 +46,7 @@ Young entrepreneur who does not see web development as a hobby but as a way of l
   <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/css.svg' width='30'/> 
   <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/js.svg' width='30'/> 
   <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/git.svg' height='30'/>  
-  <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/nodejs.svg' backgraond= "red" width='30'/> 
+  <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/4e2f0243efe490ef8e1b74e4182de7ab9323ae6c/images/nodejs.svg' backgraond= "red" width='30'/> 
   <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/e79e879970031624336e1de003103839f610f637/images/bootstrap.svg' height='30'/> 
   <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/python.svg' width='30'/> 
   <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/php.svg' width='30'/> 
