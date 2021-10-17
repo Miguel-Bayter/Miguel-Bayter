@@ -42,15 +42,14 @@ Young entrepreneur who does not see web development as a hobby but as a way of l
 <br/>
  
 <div style="text-align: right">
-<img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/tree/main/images/cpp.svg' width='30'/> 
-<img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/tree/main/images/python.svg' height='30'/>  
+<img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/css.svg' width='30'/> 
+<img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/git.svg' height='30'/>  
 <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/tree/main/images/html.svg' width='30'/> 
-<img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/tree/main/images/images/css.svg' width='30'/> 
-  <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/tree/main/images/js.svg' width='30'/> 
-  <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/tree/main/images/bootstrap.svg' width='33'/>
-  <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/tree/main/images/dart.svg' width='33'/> 
-  <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/tree/main/images/php.svg' width='40'/>
- <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/tree/main/images/sql.svg' width='30'/> 
+<img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/tree/main/images/js.svg' width='30'/> 
+<img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/bootstrap.svg" width='33'/>
+<img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/tree/main/images/dart.svg' width='33'/> 
+<img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/tree/main/images/php.svg' width='40'/>
+<img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/tree/main/images/sql.svg' width='30'/> 
  </div> 
 
 
