@@ -46,7 +46,7 @@ Young entrepreneur who does not see web development as a hobby but as a way of l
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel-Bayter&show_icons=true&theme=dark)
+
 
 
 
