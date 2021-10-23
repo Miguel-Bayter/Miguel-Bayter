@@ -14,7 +14,7 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
+  <a href="https://api.daily.dev/devcards/fd228704937d4496bb54b767eec038fc.png?r=e0v" target="_blank">
     <img
       width="356"
       align="right"
