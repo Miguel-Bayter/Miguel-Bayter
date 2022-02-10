@@ -14,14 +14,7 @@
     />
   </a>
 
-  <a href="https://app.daily.dev/MiguelBayterDev" target="_blank">
-    <img
-      width="356"
-      align="right"
-      src="https://app.daily.dev/MiguelBayterDev"
-    />
-  </a>
-</div>
+ <a href="https://app.daily.dev/MiguelBayterDev"><img src="https://api.daily.dev/devcards/fd228704937d4496bb54b767eec038fc.png?r=nst" width="400" alt="Miguel Eduardo Bayter Quintana's Dev Card"/></a>
 
 <br />
 
