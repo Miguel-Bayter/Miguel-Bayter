@@ -14,11 +14,11 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/devcards/fd228704937d4496bb54b767eec038fc.png?r=e0v" target="_blank">
+  <a href="https://app.daily.dev/MiguelBayterDev" target="_blank">
     <img
       width="356"
       align="right"
-      src="https://api.daily.dev/devcards/fd228704937d4496bb54b767eec038fc.png?r=e0v"
+      src="https://app.daily.dev/MiguelBayterDev"
     />
   </a>
 </div>
