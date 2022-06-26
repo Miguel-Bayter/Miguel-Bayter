@@ -1,4 +1,4 @@
-# <h1> Hello world, I'm Miguel Bayter <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"> </h1>
+# <h1> Hello world, I'm Miguel Bayter <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> </h1>
 
 <div align="left">
   <a href="https://twitter.com/miguel_bayter">
