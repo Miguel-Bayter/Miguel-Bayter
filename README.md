@@ -34,6 +34,7 @@ Young entrepreneur who does not see web development as a hobby but as a way of l
   <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/sql.svg' width='30'/> 
   <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/react.svg' width='30'/> 
   <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/java.svg' width='30'/>  
+  <img src = 'https://github.com/Miguel-Bayter/Miguel-Bayter/blob/13c19193b763425441d6b806053ed5dce9147d6b/images/docker.svg' width='30'/>  
 </div> 
 
 
